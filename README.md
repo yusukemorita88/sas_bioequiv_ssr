@@ -1,0 +1,3 @@
+# sas_bioequiv_ssr
+SAS Progrmans for Two-Stage Cross-over Bioequivalence PK Trials with Sample Size Re-estimation.
+Maximum Combination Test / Potvin / Standard Combination Test ...
